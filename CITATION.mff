@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: "C3.ai — Equity Research (Archive + Paper)"
+message: "If you use or reference this work, please cite it."
+type: software
+authors:
+  - family-names: Trenti
+    given-names: Andrea
+  - family-names: Martorana
+    given-names: Lorenzo
+date-released: 2026-01-29
+keywords:
+  - equity research
+  - valuation
+  - C3.ai
+  - enterprise AI
+license: CC-BY-4.0
