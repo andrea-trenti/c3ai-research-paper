@@ -9,7 +9,7 @@ This repository hosts an **archive reference** to our original LinkedIn publicat
 ## What’s inside
 - `C3.ai, Inc. Analysis.pdf` — Full research paper (PDF)
 - `REFERENCES.md` — Links / sources index
-- `AUTHORS.md`, `CREDITS.md` — Authorship & contributions (CRediT)
+- `AUTHORS.md` — Authorship & contributions
 - `CITATION.cff` — Citation metadata (GitHub “Cite this repository”)
 - `DISCLAIMER.md` — Important notes (not investment advice, content policy)
 
