@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Temp/log
+*.tmp
+*.log
+
+# Optional: if you export versions
+exports/
