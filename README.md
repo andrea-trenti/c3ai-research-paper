@@ -1,27 +1,26 @@
-# C3.ai research note + paper (LinkedIn post archive)
+# C3.ai — Equity Research (Archive + Paper)
 
-**Author:** Andrea Trenti  
-**Co-author:** Lorenzo Martorana 
-**Original post:** https://www.linkedin.com/posts/riot-investment-research_c3ai-activity-7348969261643526146-wCvI
+This repository hosts an **archive reference** to our original LinkedIn publication and an attached **PDF paper**.
 
-## Abstract
-This repository archives my original LinkedIn post (full text), plus an extended write-up/paper and supporting notes co-developed with [Co-author].  
-Main topic: [1-line topic].  
-Key claim: [1-line claim].  
-Primary evidence: [1-line evidence].  
-Limitations: [1-line limitation].
+**Authors:** Andrea Trenti, Lorenzo Martorana  
+**Publisher (LinkedIn page):** Riot Investment Research  
+**Original LinkedIn post (canonical):** https://www.linkedin.com/posts/riot-investment-research_c3ai-activity-7348969261643526146-wCvI
 
-## Repository map
-- `post/POST.md` — Full LinkedIn post text (verbatim) + metadata
-- `paper/paper.pdf` — Extended paper (PDF)
-- `paper/README.md` — Paper synopsis + versioning
-- `analysis/NOTE.md` — Extra notes: methodology, assumptions, next steps
-- `AUTHORS.md` / `CREDITS.md` — Authorship + contribution roles
-- `CITATION.cff` — How to cite this repo
+## What’s inside
+- `C3.ai, Inc. Analysis.pdf` — Full research paper (PDF)
+- `REFERENCES.md` — Links / sources index
+- `AUTHORS.md`, `CREDITS.md` — Authorship & contributions (CRediT)
+- `CITATION.cff` — Citation metadata (GitHub “Cite this repository”)
+- `DISCLAIMER.md` — Important notes (not investment advice, content policy)
 
-## How to cite
-Use the **“Cite this repository”** button on GitHub, or see `CITATION.cff`.
+## Why this repo exists
+- Create a stable, versioned home for the paper.
+- Keep a clear attribution trail (Andrea Trenti + Lorenzo Martorana).
+- Avoid reposting third-party platform content verbatim: the **LinkedIn post is referenced by URL**.
 
 ## License
-- Text/paper content: **CC BY 4.0** (see `LICENSE`)
-- Code (if any in future): [MIT/Apache-2.0 — add a separate license file if you add code]
+Text/PDF content is released under **CC BY 4.0** (see `LICENSE`).
+
+## Quick repo hygiene (recommended)
+- Don’t commit datasets/media binaries unless necessary.
+- If the PDF is large, prefer CLI upload; for very large assets, use Git LFS.
